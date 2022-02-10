@@ -1,4 +1,4 @@
-Hi, I'm Nils. I solve mechanical engineering problems with code </>.
+Hi, I'm Nils. I solve mechanical engineering problems with </>.
 
 ### Interests and Skills
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
